@@ -9,4 +9,5 @@ This is my sample project for learning Git version control.
 - Learn how to manage research code with Git.
 
 Git is a distributed version control system.
-Git is free software.
+Git is free software distributed under the GPL.
+
